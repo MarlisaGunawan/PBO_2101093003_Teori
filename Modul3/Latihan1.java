@@ -10,6 +10,6 @@
  */
 public class Latihan1 {
     public static void main(String[] args) {
-        System.out.println("Welcome to Java Programming [NamaAnda]!!!");
+        System.out.println("Welcome to Java Programming [Marlisa Gunawan]!!!");
     }
 }
