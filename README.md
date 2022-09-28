@@ -26,3 +26,7 @@ Pada Modul1 saya sudah menjelaskan bagaimana cara membuat roti menggunakan flowc
                     
                     15 / 8 = 1 7
           
+# Modul 3
+Pada modul 2 ini hanya menampilkan text saja dengan cara
+
+    System.out.println("Welcome to Java Programming [Marlisa]!!!")
