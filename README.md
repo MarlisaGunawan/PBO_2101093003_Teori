@@ -10,7 +10,9 @@ Pada Modul1 saya sudah menjelaskan bagaimana cara membuat roti menggunakan flowc
 
   Bilangan desimal adalah sistem bilangan yang berbasis 10. Hal ini berarti bilangan – bilangan pada sistem ini terdiri dari 0 sampai dengan 9.
   
-  _for example :_  12610 (umumnya hanya ditulis 126) 
+  _for example :_  
+  
+                   12610 (umumnya hanya ditulis 126) 
                    
                    1110 (umumnya hanya ditulis 11) 
             
