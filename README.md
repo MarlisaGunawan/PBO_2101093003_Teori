@@ -9,6 +9,7 @@ Flowchart adalah representasi grafis dari langkah – langkah yang harus diikuti
 Pada Modul1 saya sudah menjelaskan bagaimana cara membuat roti menggunakan flowchar lalu saya sudah membuat bagan nya. Dan untuk menghidupkan komputer di labor saya susah membuat flowchar nya dimulai dengan input. Lalu pada modul1 lat 2 tentang Sitem bilangan.
 
 **A. Sistem Bilangan desimal**
+
   Bilangan desimal adalah sistem bilangan yang berbasis 10. Hal ini berarti bilangan – bilangan pada sistem ini terdiri dari 0 sampai dengan 9.
             12610 (umumnya hanya ditulis 126) 
             1110 (umumnya hanya ditulis 11) 
