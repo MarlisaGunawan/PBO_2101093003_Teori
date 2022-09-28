@@ -16,7 +16,7 @@ Pada Modul1 saya sudah menjelaskan bagaimana cara membuat roti menggunakan flowc
                    
                    63 / 2 = 31 1
             
- **B. Desimal ke Oktal/Heksadesimal dan Oktal/Heksadesimal ke Desimal **
+ **B. Desimal ke Oktal/Heksadesimal dan Oktal/Heksadesimal ke Desimal**
  
   Perbedaannya terletak pada bilangan pembagi. Jika pada konversi biner pembaginya adalah angka 2, maka pada konversi oktal pembaginya adalah angka 8, sedangkan pada konversi heksadesimal pembaginya adalah 16. 
  
