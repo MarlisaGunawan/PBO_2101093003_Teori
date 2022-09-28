@@ -38,4 +38,10 @@ Lalu pada no2 itu disebut the tree yaitu seperti nempilkan banyak kalimat dengan
           System.out.println("A tree whose hungry mouth is pressed ");
           System.out.println("Against the Earth’s sweet flowing breast.");
 
+# Modul 4
+Pada modul 4 ini kita bnyak mengenal operasi bilangan, type data dll. Lanjut saja saya akan menjelaskan dari latihan diatas;
+
+Pada no 1;
+
+
 
