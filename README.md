@@ -41,7 +41,35 @@ Lalu pada no2 itu disebut the tree yaitu seperti nempilkan banyak kalimat dengan
 # Modul 4
 Pada modul 4 ini kita bnyak mengenal operasi bilangan, type data dll. Lanjut saja saya akan menjelaskan dari latihan diatas;
 
-Pada no 1;
+Pada no 1; Kita akan mendeklarasikan dan mencetak variabel
+
+          Number = 10 
+          letter = a 
+          result = true 
+          str = hello 
+          
+ Yang diatas adalah outputnya jadi kalian hanya perlu masukan satu-satu variabel ke dalam kamus lalu panggil dan kita outputkan.
+ 
+ Pada no 2; Kita akan mencari nilai rata-rata pada beberapa angka 
+ 
+          number 1 = 10 
+          number 2 = 20 
+          number 3 = 45 
+          Average is = 25
+          
+Untuk mendapatkan input seperti itu hanya diperlukan dengan cara jumlahkan masing-masing number lalu tampilkan dan selanjutnya rata-ratakan dengan cara dibagi 3 menggunukan AVG.
+ 
+Pada no 3; Menampilkan nilai terbesar
+
+          number 1 = 10 
+          number 2 = 23 
+          number 3 = 5 
+          Nilai tertingginya adalah angka = 23 
+
+Untuk menghasilkan nilai yang tertinggi anda hanya perlu menggunakan kondisi. Misal anda inputkan semua number lalu, antara number 1 dibandingkan dengan number2 lalu number2 akan dibandingkan dengan number3.
+
+
+ 
 
 
 
