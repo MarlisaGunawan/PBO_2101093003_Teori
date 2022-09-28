@@ -68,7 +68,9 @@ Pada no 3; Menampilkan nilai terbesar
 
 Untuk menghasilkan nilai yang tertinggi anda hanya perlu menggunakan kondisi. Misal anda inputkan semua number lalu, antara number 1 dibandingkan dengan number2 lalu number2 akan dibandingkan dengan number3.
 
+Pada no 4;Operator precedence
 
+Pada operator ini kamu hanya perlu mengurutkan siapa yang paling prioritas lalu kamu bikin kurung. Misal antara kali dan tambah anda bisa menambahkan kurung pada kali.
  
 
 
