@@ -11,10 +11,10 @@ Pada Modul1 saya sudah menjelaskan bagaimana cara membuat roti menggunakan flowc
 **A. Sistem Bilangan desimal**
 
   Bilangan desimal adalah sistem bilangan yang berbasis 10. Hal ini berarti bilangan – bilangan pada sistem ini terdiri dari 0 sampai dengan 9.
-            12610 (umumnya hanya ditulis 126) 
-            1110 (umumnya hanya ditulis 11) 
+  _for example :_  12610 (umumnya hanya ditulis 126) 
+                   1110 (umumnya hanya ditulis 11) 
             
  **B. Sistem Bilangan Biner**
  
- Bilangan dalam bentuk biner adalah bilangan berbasis 2. Ini menyatakan bahwa 
-bilangan yang terdapat dalam sistem ini hanya 0 dan 1.
+ Bilangan dalam bentuk biner adalah bilangan berbasis 2. Ini menyatakan bahwa bilangan yang terdapat dalam sistem ini hanya 0 dan 1.
+          
