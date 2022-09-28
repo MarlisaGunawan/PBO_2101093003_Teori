@@ -19,4 +19,10 @@ Pada Modul1 saya sudah menjelaskan bagaimana cara membuat roti menggunakan flowc
  **B. Sistem Bilangan Biner**
  
  Bilangan dalam bentuk biner adalah bilangan berbasis 2. Ini menyatakan bahwa bilangan yang terdapat dalam sistem ini hanya 0 dan 1.
+ 
+ _for example :_
+ 
+                    11111102 
+                    
+                    10112 
           
