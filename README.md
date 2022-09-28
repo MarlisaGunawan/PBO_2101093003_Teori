@@ -27,6 +27,15 @@ Pada Modul1 saya sudah menjelaskan bagaimana cara membuat roti menggunakan flowc
                     15 / 8 = 1 7
           
 # Modul 3
-Pada modul 2 ini hanya menampilkan text saja dengan cara
+Pada modul 2 (nomor 1) ini hanya menampilkan text saja dengan cara
 
-    System.out.println("Welcome to Java Programming [Marlisa]!!!")
+          System.out.println("Welcome to Java Programming [Marlisa]!!!")
+    
+Lalu pada no2 itu disebut the tree yaitu seperti nempilkan banyak kalimat dengan cara;
+
+          System.out.println("I think that I shall never see, ");
+          System.out.println("a poem as lovely as a tree.");
+          System.out.println("A tree whose hungry mouth is pressed ");
+          System.out.println("Against the Earth’s sweet flowing breast.");
+
+
