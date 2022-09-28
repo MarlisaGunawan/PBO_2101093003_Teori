@@ -6,23 +6,24 @@ langkah dalam algoritma harus logis dan bernilai benar atau salah. Flowchart ada
 
 Pada Modul1 saya sudah menjelaskan bagaimana cara membuat roti menggunakan flowchar lalu saya sudah membuat bagan nya. Dan untuk menghidupkan komputer di labor saya susah membuat flowchar nya dimulai dengan input. Lalu pada modul1 lat 2 tentang Sitem bilangan.
 
-**A. Sistem Bilangan desimal**
+**A. Konversi Decimal ke Biner**
 
-  Bilangan desimal adalah sistem bilangan yang berbasis 10. Hal ini berarti bilangan – bilangan pada sistem ini terdiri dari 0 sampai dengan 9.
+  Untuk mengubah angka desimal menjadi angka biner digunakan metode pembagiandengan angka 2 sambil memperhatikan sisanya. Ambil hasil bagi dari proses pembagian sebelumnya, dan bagi kembali bilangan tersebut dengan angka 2
   
   _for example :_  
   
-                   12610 (umumnya hanya ditulis 126) 
+                   126 / 2 = 63 0
                    
-                   1110 (umumnya hanya ditulis 11) 
+                   63 / 2 = 31 1
             
- **B. Sistem Bilangan Biner**
+ **B. Desimal ke Oktal/Heksadesimal dan Oktal/Heksadesimal ke 
+Desimal **
  
- Bilangan dalam bentuk biner adalah bilangan berbasis 2. Ini menyatakan bahwa bilangan yang terdapat dalam sistem ini hanya 0 dan 1.
+  Perbedaannya terletak pada bilangan pembagi. Jika pada konversi biner pembaginya adalah angka 2, maka pada konversi oktal pembaginya adalah angka 8, sedangkan pada konversi heksadesimal pembaginya adalah 16. 
  
  _for example :_
  
-                    11111102 
+                    126 / 8 = 15 6
                     
-                    10112 
+                    15 / 8 = 1 7
           
